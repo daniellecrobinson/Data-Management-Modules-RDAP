@@ -6,7 +6,7 @@ Let's collaboratively design a Data Management Course with modules.
 
 1. **Break into groups of 3-4 people**.
 2. **Designate a group coordinator**. This person will fork my template repo and coordinate your groups contributions. 
-3. **Claim a module topic** from [here](https://github.com/daniellecrobinson/Data-Management-Modules-RDAP) - your group will map out content for that module. 
+3. **Claim a module topic** from [here](https://github.com/daniellecrobinson/Data-Management-Modules-RDAP/blob/master/Module-Topics.md) - your group will map out content for that module. 
 4. **Group coordinator forks the repo** 
 - at this point, the coordinator can make group members into collaborators
 - but we encourgae group members to fork the repo of the group coordinator, add content, and make a pull request.

@@ -1,5 +1,5 @@
 1. Intro to Data Management: The research data lifecycle
-2. Data Management Plans
+2. Data Management Plans and Planning
 3. Data Collection
 4. Metadata is your friend: Creating meaningful documentation
 5. Data management within collaborative projects

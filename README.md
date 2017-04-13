@@ -12,15 +12,12 @@ Let's collaboratively design a Data Management Course with modules.
 - a list of potential modules is [here](https://github.com/daniellecrobinson/Data-Management-Modules-RDAP/blob/master/Module-Topics.md), but feel free to make up your own.
 7. When adding a doccument or making a change, select "Create a new branch for this committ and start a Pull request"
 
-![Create a new branch for this commit and start a pull request](/collab-pull-reg-screen-shot.png.png)
+!(/collab-pull-reg-screen-shot.png)
 
 5. **Make a new .md document** in the repo and write a description for your module
 
 **Check point** Does each group coordinator have a forked copy of the template file with a new, uniquely named .md file for their module?
 
-
-8. Merge the forks
-9. Resolve the conflics!
 
 **Check point** Does every group have one, uniquely named Your-Module.md file that contains content from each group member?
 

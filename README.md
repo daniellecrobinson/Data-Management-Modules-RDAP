@@ -17,6 +17,7 @@ Let's collaboratively design a Data Management Course with modules.
 
 ![collaborative commit](/img/collab-pull-reg-screen-shot.png)
 **Check point** Has each group member made a change (or added a file), and started a pull request, and had other members review their change?
+
 6. **Share back to the group** - What was intuitive? What was challenging?
 
 

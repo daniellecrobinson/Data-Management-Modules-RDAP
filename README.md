@@ -7,19 +7,16 @@ Let's collaboratively design a Data Management Course with modules.
 1. **Break into groups of 3-4 people**.
 2. **Designate a group coordinator**. This person will fork this repo and coordinate your groups contributions. 
 3. **Group coordinator forks the repo** 
-- at this point, the coordinator will make group members into collaborators
-4. **Group will work together using Issues, and creating new_modules.md documents**
-- a list of potential modules is [here](https://github.com/daniellecrobinson/Data-Management-Modules-RDAP/blob/master/Module-Topics.md), but feel free to make up your own.
-7. When adding a doccument or making a change, select "Create a new branch for this commit and start a Pull request"
+**Check point** Does each group coordinator have a forked copy of the repo?
+4. **Group Coordinator makes group members into collaborators**
+5. **Group will work together to create the course**
+- Use Issues to assign tasks to group members.
+- Create new markdown documents for the new modules (remember to name them as .md files!)
+- A list of potential modules is [here](https://github.com/daniellecrobinson/Data-Management-Modules-RDAP/blob/master/Module-Topics.md), but feel free to make up your own.
+- When adding a doccument or making a change, select "Create a new branch for this commit and start a pull request"... as shown here. This will give the other collaboraters a chance to review your changes.
 
 ![collaborative commit](/img/collab-pull-reg-screen-shot.png)
-
-5. **Make a new .md document** in the repo and write a description for your module
-
-**Check point** Does each group coordinator have a forked copy of the template file with a new, uniquely named .md file for their module?
+**Check point** Has each group member made a change (or added a file), and started a pull request, and had other members review their change?
+6. **Share back to the group** - What was intuitive? What was challenging?
 
 
-**Check point** Does every group have one, uniquely named Your-Module.md file that contains content from each group member?
-
-11. Group Coordinators **make a pull request** back to Danielle's repo. 
-12. Watch the magic happen, as all modules are added to the main repo!

@@ -12,7 +12,7 @@ Let's collaboratively design a Data Management Course with modules.
 - a list of potential modules is [here](https://github.com/daniellecrobinson/Data-Management-Modules-RDAP/blob/master/Module-Topics.md), but feel free to make up your own.
 7. When adding a doccument or making a change, select "Create a new branch for this commit and start a Pull request"
 
-![collaborative commit](daniellecrobinson.github.com/Data-Management-Modules-RDAP/collab-pull-reg-screen-shot.png)
+![collaborative commit](Data-Management-Modules-RDAP/collab-pull-reg-screen-shot.png)
 
 5. **Make a new .md document** in the repo and write a description for your module
 

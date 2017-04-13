@@ -11,6 +11,11 @@ Let's collaboratively design a Data Management Course with modules.
 **Check point!** Does each group coordinator have a forked copy of the repo?
 
 4. **Group Coordinator makes group members into collaborators**
+- Once you become a collaborator, default settings will create a deluge of emails and notifications on all the activity in that repo. 
+- We recommend adjusting you settings to "Not Watching"
+
+![image](https://cloud.githubusercontent.com/assets/10601796/24984682/bb7e19d8-1fa3-11e7-9167-90f1301e8be7.png)
+
 5. **Group will work together to create the course**
 - Use Issues to assign tasks to group members.
 - Create new markdown documents for the new modules (remember to name them as .md files!)

@@ -12,7 +12,7 @@ Let's collaboratively design a Data Management Course with modules.
 
 4. **Group Coordinator makes group members into collaborators**
 - Once you become a collaborator, default settings will create a deluge of emails and notifications on all the activity in that repo. 
-- We recommend adjusting you settings to "Not Watching"
+- We recommend adjusting you settings to "Not Watching", you will only be notified if someone tags @your_username
 
 ![image](https://cloud.githubusercontent.com/assets/10601796/24984682/bb7e19d8-1fa3-11e7-9167-90f1301e8be7.png)
 

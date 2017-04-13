@@ -9,8 +9,8 @@ Let's collaboratively design a Data Management Course with modules.
 3. **Group coordinator forks the repo** 
 - at this point, the coordinator will make group members into collaborators
 4. **Group will work together using Issues, and creating new_modules.md documents**
-- a list of potential modules is [here](https://github.com/daniellecrobinson/Data-Management-Modules-RDAP/blob/master/Module-Topics.md), but feel free to make up your own modules. 
-7. When adding a doccument or making a change, select 
+- a list of potential modules is [here](https://github.com/daniellecrobinson/Data-Management-Modules-RDAP/blob/master/Module-Topics.md), but feel free to make up your own.
+7. When adding a doccument or making a change, select "Create a new branch for this committ and start a Pull request"
 5. **Make a new .md document** in the repo and write a description for your module
 
 **Check point** Does each group coordinator have a forked copy of the template file with a new, uniquely named .md file for their module?
